@@ -1,0 +1,14 @@
+D:\c#\DataStructureProject\bin\Debug\net8.0\DataStructureProject.exe
+D:\c#\DataStructureProject\bin\Debug\net8.0\DataStructureProject.deps.json
+D:\c#\DataStructureProject\bin\Debug\net8.0\DataStructureProject.runtimeconfig.json
+D:\c#\DataStructureProject\bin\Debug\net8.0\DataStructureProject.dll
+D:\c#\DataStructureProject\bin\Debug\net8.0\DataStructureProject.pdb
+D:\c#\DataStructureProject\obj\Debug\net8.0\DataStructureProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\DataStructureProject\obj\Debug\net8.0\DataStructureProject.AssemblyInfoInputs.cache
+D:\c#\DataStructureProject\obj\Debug\net8.0\DataStructureProject.AssemblyInfo.cs
+D:\c#\DataStructureProject\obj\Debug\net8.0\DataStructureProject.csproj.CoreCompileInputs.cache
+D:\c#\DataStructureProject\obj\Debug\net8.0\DataStructureProject.dll
+D:\c#\DataStructureProject\obj\Debug\net8.0\refint\DataStructureProject.dll
+D:\c#\DataStructureProject\obj\Debug\net8.0\DataStructureProject.pdb
+D:\c#\DataStructureProject\obj\Debug\net8.0\DataStructureProject.genruntimeconfig.cache
+D:\c#\DataStructureProject\obj\Debug\net8.0\ref\DataStructureProject.dll
